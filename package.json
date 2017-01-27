@@ -23,16 +23,16 @@
     "compression": "^1.2.0",
     "css-loader": "^0.26.1",
     "express": "^4.9.4",
-    "extract-text-webpack-plugin": "^1.0.1",
+    "extract-text-webpack-plugin": "^2.0.0-rc.0",
     "less": "^2.7.2",
     "less-loader": "^2.2.3",
-    "marko": "^4.0.0-beta.14",
-    "marko-loader": "^1.0.0",
+    "marko": "^4.0.0-rc.8",
+    "marko-loader": "^1.2.0",
     "raptor-pubsub": "^1.0.5",
     "raptor-util": "^1.0.9",
     "serve-static": "^1.6.2",
     "style-loader": "^0.13.1",
     "svg-url-loader": "^1.1.0",
-    "webpack": "^1.14.0"
+    "webpack": "^2.2.0"
   }
 }
